@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialPortHelper", "SerialPortHelper.csproj", "{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "串口助手++", "..\串口助手++\串口助手++.vdproj", "{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Debug|x64.ActiveCfg = Debug|x64
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Debug|x64.Build.0 = Debug|x64
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Release|x64.ActiveCfg = Release|x64
+		{A11FDF79-2D30-42B8-B597-0AAAC084EBE4}.Release|x64.Build.0 = Release|x64
+		{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}.Debug|Any CPU.ActiveCfg = Debug
+		{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}.Debug|x64.ActiveCfg = Debug
+		{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}.Debug|x64.Build.0 = Debug
+		{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}.Release|Any CPU.ActiveCfg = Release
+		{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}.Release|x64.ActiveCfg = Release
+		{D15A9522-FC6C-4A37-B3DF-38C126D9A51F}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB6B89E-05F2-4159-B1B3-AEA49B4614A6}
+	EndGlobalSection
+EndGlobal
